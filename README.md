@@ -5,4 +5,4 @@ My team and I built a website called Study4Change that awards good study habits 
 
 My part of the work was designing and building the landing pages, contact and donation forms, and account page. Very fun project, stayed up for 24 hours for this hackathon.
 
-In the end, our hack won BEST EDUCATION HACK! Very happy and proud of the end result. Website can be accessed in https://indexhtml.retrohalo.repl.co/index.html
+In the end, our hack won BEST EDUCATION HACK! Very happy and proud of the end result. Website can be accessed at https://indexhtml.retrohalo.repl.co/index.html
